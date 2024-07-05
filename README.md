@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
 Programming Languages: Swift 5, Objective-C, React Native, JSX
 Frameworks & Libraries: SwiftUI, UIKit, RxSwift, VIPER, Core Data, Realm, Combine
 Development Tools: Xcode, Postman, TestFlight, App Center, Git, CFNetwork, COCOAPods, XCTest
