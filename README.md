@@ -4,7 +4,6 @@ Senior Mobile Engineer specializing in iOS development with proven expertise in 
 
 ### 🔭 Have a look at my [website](https://github.com/mubeenasif01).
 
-
 <!--
 **mubeenasif01/mubeenasif01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Senior Mobile Engineer specializing in iOS development with proven expertise in project management, coding, and CI/CD pipeline management. Brings 6 years of experience in building robust, well-performing applications matching specifications and exceeding expectations. Seeks out opportunities to expand skills and improve designs.
 
 Skills
 Programming Languages: Swift 5, Objective-C, React Native, JSX
